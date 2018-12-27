@@ -1,6 +1,17 @@
 # listeView basique
+ 
+ Ce projet est le corrigé du WorkShop réalise le 25 / 12 / 2018 durant le Flutter StudyJam de < GDG Tizi Ouzou >
 
-A new Flutter project.
+ Il s'agit d'une variation du tutoriel basique de Flutter afin d'y inclure des Images ;
+
+ Il vous faut porter une attention particulière aux fichiers suivants :
+  
+ - pubspec.yaml
+ - lib/main.dart
+ - lib/MonWidget.dart
+ 
++ le répertoire ressources 
+
 
 ## Getting Started
 
